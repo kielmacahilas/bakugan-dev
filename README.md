@@ -1,0 +1,2 @@
+# bakugan-dev
+bakugan show
